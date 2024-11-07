@@ -65,9 +65,9 @@ Here're some examples:
 - *Let me know of more!*
 
 
-## Why?
+## 블록 코딩이?
 
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
+**블록 코딩**은 텍스트 기반의 전통적인 코딩 방식과 달리, 블록을 조립하듯이 시각적으로 코드를 구성하는 방식입니다. 마치 레고 블록을 쌓아 조립하는 것처럼, 각각의 기능을 가진 블록들을 연결하여 프로그램을 만드는 것이죠.
 
 - Each vertical section is a markdown file in **_posts/** directory.
   * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
