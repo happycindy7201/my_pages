@@ -65,7 +65,7 @@ Here're some examples:
 - *Let me know of more!*
 
 
-## 블록 코딩이?
+## 블록 코딩이란란?
 
 **블록 코딩**은 텍스트 기반의 전통적인 코딩 방식과 달리, 블록을 조립하듯이 시각적으로 코드를 구성하는 방식입니다. 마치 레고 블록을 쌓아 조립하는 것처럼, 각각의 기능을 가진 블록들을 연결하여 프로그램을 만드는 것이죠.
 
@@ -141,7 +141,7 @@ Now hop over to [Usage](#usage) to get it running with your own stuff!
 
 
 
-## Usage
+## 파이썬 코딩딩
 
 Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
 
@@ -194,7 +194,7 @@ Nifty, right!
 
 
 
-## Updating
+## 인공지능(머신러닝, 딥러닝)
 
 So you've got a copy running and there's some new update? Let's update!
 
